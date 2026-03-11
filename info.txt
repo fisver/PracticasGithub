@@ -1,0 +1,4 @@
+Nombre del alumno: Francisco Rivera
+Fecha: 11/03/2026
+Objetivo: Practicar el flujo de GitHub
+PR: Una solicitud para unir cambios de una rama a otra.

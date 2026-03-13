@@ -1,3 +1,3 @@
 Proyecto: Git Conflicts
-Responsable: Francisco Rivera
+Responsable: Equipo-A
 Version: 1.0

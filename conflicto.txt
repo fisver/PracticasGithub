@@ -1,3 +1,5 @@
 Proyecto: Git Conflicts
-Responsable: EQUIPO-A
+feature/conflicto-francisco-rivera
+Responsable: EQUIPO-A y EQUIPO-B
+main
 Version: 1.0
